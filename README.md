@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Paulinho</h1>
+<h3 align="center">CEO do ChatBoyAI | Apaixonado por IA, cibersegurança e bots para Discord</h3>
 
-<!--
-**Paulo-cybe/Paulo-cybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 Criador do projeto **ChatBoyAI** – uma loja de bots inteligentes e personalizados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudando: cibersegurança, Python, redes, front-end e automação
+
+🧠 Trabalhando em projetos com IA, criptografia e desenvolvimento de bots
+
+📲 Instagram: [@chatboyai](https://instagram.com/chatboyai)  
+💬 Discord: [discord.gg/XaERJKx3](https://discord.gg/XaERJKx3)
+
+---
