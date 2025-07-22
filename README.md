@@ -1,7 +1,4 @@
-<div align="center">
 
-  <!-- Imagem de perfil ou logo do projeto -->
-  <img src="https://github.com/Paulo-cybe/Paulo-cybe/issues/1#issue-3254290069" width="120" alt="Avatar Nexa AI" style="border-radius:50%; margin-bottom:15px;"/>
 
   <h1 align="center">🌩️ TempestX & Nexa AI</h1>
   <h3 align="center">Inovação, automação e inteligência para transformar comunidades!</h3>
