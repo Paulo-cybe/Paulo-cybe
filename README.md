@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Instagram-@santtlx-833AB4?style=for-the-badge&logo=instagram" alt="Instagram" />
     </a>
     <a href="https://discord.com/users/1094983285043642498">
-      <img src="https://img.shields.io/badge/Discord-santtlx%230001-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-meu Discord-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
     </a>
   </p>
 
