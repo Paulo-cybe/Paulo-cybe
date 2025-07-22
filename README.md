@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IA-Preditiva-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/paulinho-dev/tempestx?style=for-the-badge&label=Stars&logo=github"/>
 </p>
 
 ---
@@ -17,10 +18,10 @@
 
 <div align="center">
 
-🎯 Desenvolvedor back-end com foco em **Python**  
-🧠 Especialista em **IA aplicada** e **automação inteligente**  
-🛡️ Estudante dedicado de **cibersegurança, criptografia e malwares**  
-🌍 Criador de **bots personalizados** e soluções com impacto social real  
+🎯 Desenvolvedor back-end com foco em <strong>Python</strong>  
+🧠 Especialista em <strong>IA aplicada</strong> e <strong>automação inteligente</strong>  
+🛡️ Estudante dedicado de <strong>cibersegurança, criptografia e malwares</strong>  
+🌍 Criador de <strong>bots personalizados</strong> e soluções com impacto social real  
 
 </div>
 
@@ -34,15 +35,15 @@
 
 ---
 
-## 📊 Prévia Visual
+## 🎯 Visão do Projeto
 
-> Interface (mockup visual conceitual)
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/paulinho-dev/tempestx/main/assets/mockup-tempestx.png" width="80%" alt="Mockup do TempestX"/>
-</p>
+> TempestX é mais do que um sistema — é uma missão.  
+> Unindo dados, IA e responsabilidade social, o objetivo é antecipar catástrofes naturais, emitir alertas preventivos e **salvar vidas**.  
+> Um passo à frente da tempestade. Um avanço à frente do impacto.
 
-<p align="center"><i>⚠️ Imagem ilustrativa da futura dashboard do sistema.</i></p>
+</div>
 
 ---
 
