@@ -1,56 +1,54 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5em; color: #2c3e50;">
-  🌪️ <span style="color: #2980b9;">TempestX</span>
-</h1>
-<p align="center" style="font-size: 1.2em; color: #555; font-weight: 500;">
-  Inteligência preditiva para <strong style="color: #e74c3c;">proteger vidas</strong>.  
-  <span style="color: #16a085;">Tecnologia com propósito.</span>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IA-Preditiva-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/github/stars/paulinho-dev/tempestx?style=for-the-badge&label=Stars&logo=github"/>
-</p>
-
----
-
-
-
-## 🧠 Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<div align="center">
+  <img src="https://photos.app.goo.gl/gxT9vLFvM3VuCVv4A" alt="Nexa AI Bot" width="120" style="border-radius:50%;" />
+  <br>
+  <h1>🤖 Nexa AI — Seu Bot Inteligente para Discord</h1>
+  <p>
+    <b>Conecte, automatize e revolucione sua comunidade!</b><br>
+    🧠 IA avançada • 🎮 Games e Dinâmicas • 🔒 Segurança • 📊 Analytics • 🎨 Personalização
+  </p>
+  <p>
+    <a href="https://instagram.com/santtlx"><img src="https://img.shields.io/badge/Instagram-@santtlx-833AB4?style=flat&logo=instagram" alt="Instagram"></a>
+    <a href="https://discord.com/users/1094983285043642498"><img src="https://img.shields.io/badge/Discord-santtlx-5865F2?style=flat&logo=discord" alt="Discord"></a>
+  </p>
+</div>
 
 ---
 
-## 👨‍💻 about me
+## 📌 Resumo do Projeto
 
-<p align="center" style="font-size: 1.1rem; max-width: 600px; margin: auto;">
-Criador de bots personalizados para Discord e soluções inteligentes com IA.  
-Focado em automação, segurança digital e impacto social.
-</p>
+A **Nexa AI** é uma solução inovadora de automação para servidores Discord, criada com Python e totalmente focada em personalização, segurança, interatividade e engajamento.  
+Com recursos de IA, dinâmicas de jogos, moderação, economia virtual, utilitários e relatórios inteligentes, Nexa AI é o bot perfeito para quem quer elevar a experiência da sua comunidade.
 
----
-
-## 🪱 Contact 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/@santtlx-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-</p>
+**Principais funcionalidades:**
+- Moderação inteligente e personalizada
+- Jogos, quizzes e desafios automáticos
+- Sistema de economia virtual e rankings
+- Relatórios de atividades e insights do servidor
+- Comandos customizáveis e integração fácil
+- Segurança avançada e proteção contra spam
 
 ---
 
-<p align="center" style="font-style: italic; color: #555;">
-“Não escrevo código apenas por paixão, mas por missão. Cada algoritmo pode alertar, proteger e transformar realidades.”
-</p>
+## 🛠 Tecnologias
+
+- **Python 3**
+- **discord.py**
+- Banco de dados local (SQLite)
+- Ferramentas de análise de texto e geração de relatórios
+- Algoritmos de IA e automação
+
+---
+
+## 🚀 Como Usar
+
+```bash
+# Clone o repositório
+git clone https://github.com/Paulo-cybe/Paulo-cybe.git
+
+# Instale as dependências
+pip install -r requirements.txt
+
+# Configure o token do bot e personalize as funções no arquivo config.py
+
+# Inicie o bot
+python main.py
