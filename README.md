@@ -1,83 +1,39 @@
-<!-- Banner Animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Paulo+Cybe!;Desenvolvedor+FullStack+e+Criador+de+Bots;Bem-vindo+ao+meu+GitHub!&center=true&width=500&height=45&color=FFD700&vCenter=true" alt="Typing SVG">
-</p>
-
-<!--black"/>
-  <img src="https://img.shields.io/badge/Discord%20Bots-Python-306998?style=for-the-badge&logo=python&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Projetos%20OpenSource-Git## 👋 Sobre mim
-
-- 🎓 **Estudante de tecnologia apaixonado por desenvolvimento fullstack, bots e automações!**
-- 💻 Trabalho com **JavaScript, Python, React, Node.js** e APIs modernas.
-- 🤝 Sempre aberto a colaborações e projetos inovadores.
-- 🚀 Focado em aprender, evoluir e compartilhar conhecimento!
+<h1 align="center">🌪️ TempestX</h1>
+<p align="center">Desenvolvedor por propósito. Construindo soluções que salvam vidas.</p>
 
 ---
 
-## ⚡ Tecnologias & Ferramentas
+### 👨‍💻 Sobre mim
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,html,css,github,git,linux" alt="Tech Stack" />
-</div>
-
----
-
-## 🌟 Projetos em Destaque
-
-<a href="https://github.com/Paulo-cybe/projetos">
-  <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo-cybe&repo=projetos&theme=radical" />
-</a>
-<a href="https://github.com/Paulo-cybe/ChatBoyAI">
-  <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Paulo-cybe&repo=ChatBoyAI&theme=radical" />
-</a>
-<br><br><br>
+- 🎯 Foco em **IA preditiva, cibersegurança e APIs**
+- 🧠 Criador do **TempestX**, um sistema inteligente contra desastres naturais
+- 💻 Desenvolvedor back-end com Python, e apaixonado por projetos reais
+- 🛡️ Estudando segurança digital, criptografia e análise de malwares
 
 ---
 
-## 🪄 Animações & Efeitos
+### 🚀 Projetos em Destaque
 
-- **Typing Animation:** Banner no topo com textos animados.
-- **Badges Dinâmicas:** Shields customizadas para áreas de atuação.
-- **Estatísticas GitHub:** Cards com stats de contribuições e linguagens.
-- **Dark Mode Ready:** Visual pensado para escuro e claro.
-- **Emojis e divisores coloridos** para dar dinamismo ao visual.
+- 🌀 [TempestX](https://github.com/seu-user/tempestx) — IA que prevê enchentes e tempestades
+- 🛡️ CyberScan — Scanner de vulnerabilidades simples em Python
+- 🤖 ChatBoy — Chat moderno com IA, criptografia e interface animada
 
 ---
 
-## 📈 Estatísticas
+### 💡 Tecnologias que uso
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Paulo-cybe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-cybe&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
----
-
-## 📫 Contato
-
-- [![Discord Badge](https://img.shields.io/badge/Discord-PauloCybe%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu-id-aqui)
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-paulo.cybe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.cybe@gmail.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-PauloCybe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+`Python` `Flask` `Streamlit` `React`  
+`Pandas` `Scikit-learn` `TensorFlow`  
+`HTML` `CSS` `JavaScript`  
+`APIs` `Criptografia` `Segurança da Informação`
 
 ---
 
-## 💡 Ideias de Melhorias
+### 🌍 Conecte-se comigo
 
-- [ ] Adicionar um portfólio visual interativo (ex: [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy))
-- [ ] Incluir um GIF animado do terminal rodando um bot
-- [ ] Linkar artigos, tutoriais ou vídeos próprios
-- [ ] Seção de conquistas (badges de eventos, hackathons, etc)
-- [ ] “Quote of the day” animado ou randomizado
-- [ ] Personalizar o README com widgets de clima, música ou status online do Discord
+[![Instagram](https://img.shields.io/badge/@chatboy2-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chatboy2)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_ID)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding gif" />
-</p>
-
----
-
-<p align="center">
-  <b>Obrigado por visitar! ⭐ Fique à vontade para explorar meus projetos e me chamar para conversar!</b>
-</p>
+> *"A tecnologia não é só código. É impacto, é visão, é transformação."*
