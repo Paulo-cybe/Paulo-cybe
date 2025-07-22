@@ -29,7 +29,7 @@
 
 ---
 
-## 👨‍💻 Sobre o Criador
+## 👨‍💻 about me
 
 <p align="center" style="font-size: 1.1rem; max-width: 600px; margin: auto;">
 Criador de bots personalizados para Discord e soluções inteligentes com IA.  
@@ -38,7 +38,7 @@ Focado em automação, segurança digital e impacto social.
 
 ---
 
-## 🌐 Contato
+## 🪱 Contact 
 
 <p align="center">
   <img src="https://img.shields.io/badge/@santtlx-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
