@@ -2,7 +2,7 @@
 <p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk2b2txM3FzZ2h2ZThmY3lnaTNzMGw5c3o1amljbGZudG1odWZiZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FLdmIp6wJr91JAI/giphy.gif" width="160" alt="Tempestade animada" style="pointer-events: none;"/>
+  <img src="https://media.giphy.com/media/SXx0omF5rF2a3vKRTB/giphy.gif" width="160" alt="Tempestade animada" style="pointer-events: none;"/>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ## 🚧 Projeto Atual – TempestX
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJlazd3NmJxdHJ6MWg3eWd2azhhb2pwcWthZTBtNmZxdHQwNGFhZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT0GqeSlGSRQut4On6/giphy.gif" width="90%" alt="Painel animado IA" style="pointer-events: none;"/>
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4On6/giphy.gif" width="90%" alt="Painel animado IA" style="pointer-events: none;"/>
 </p>
 
 ### 🌪️ Sistema de Previsão e Alerta de Desastres Naturais
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4YWY2c2l6aHJxZTVpNGN3YzZmdnBkbm15OXl3emFkdmxyYmcxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOwGoNa1mYpWdvkU0/giphy.gif" width="480" alt="Análise IA animada" style="pointer-events: none;"/>
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="480" alt="Análise IA animada" style="pointer-events: none;"/>
 
 <br/><br/>
 
