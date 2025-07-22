@@ -2,7 +2,7 @@
 <p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h8iZ0gTn4AtfZ3Bzsw/giphy.gif" width="160" alt="Tempestade animada"/>
+  <img src="https://media.giphy.com/media/h8iZ0gTn4AtfZ3Bzsw/giphy.gif" width="160" alt="Tempestade animada" style="pointer-events: none;"/>
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 
 ## 🚧 Projeto Atual – TempestX
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxN3JzNnBiaXZyOHZ3aXRhNGx6YTRrdTdoazd5ZGpnM3Z5N3I4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP502/giphy.gif" width="90%" alt="Painel animado IA"/>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxN3JzNnBiaXZyOHZ3aXRhNGx6YTRrdTdoazd5ZGpnM3Z5N3I4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP502/giphy.gif" width="90%" alt="Painel animado IA" style="pointer-events: none;"/>
+</p>
 
 ### 🌪️ Sistema de Previsão e Alerta de Desastres Naturais
 
@@ -50,11 +50,13 @@
 
 <div align="center">
 
-> <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="480" alt="Análise IA animada" />
+<img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="480" alt="Análise IA animada" style="pointer-events: none;"/>
 
-> <strong>TempestX</strong> não é apenas um projeto — é uma iniciativa com propósito.  
-> Ele visa antecipar e mitigar os impactos dos eventos climáticos extremos usando IA, visualização de dados e resposta automatizada.  
-> O futuro da prevenção climática começa aqui.
+<br/>
+
+<strong>TempestX</strong> não é apenas um projeto — é uma iniciativa com propósito.  
+Ele visa antecipar e mitigar os impactos dos eventos climáticos extremos usando IA, visualização de dados e resposta automatizada.  
+O futuro da prevenção climática começa aqui.
 
 </div>
 
@@ -81,12 +83,10 @@
 ## 🌐 Contato
 
 <p align="center">
-  <a href="https://instagram.com/santtlx" target="_blank">
-    <img src="https://img.shields.io/badge/@santtlx-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.com/users/1094983285043642498" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+
+  <img src="https://img.shields.io/badge/@santtlx-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+
 </p>
 
 ---
