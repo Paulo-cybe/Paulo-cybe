@@ -33,7 +33,7 @@ Sou desenvolvedor back-end com especialização em **Python**, apaixonado por **
 
 ### 🌐 Conecte-se comigo
 
-[![Instagram](https://img.shields.io/badge/@chatboy2-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/santtlx)  
+[![Instagram](https://img.shields.io/badge/@santtlx-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/santtlx)  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1094983285043642498)
 
 ---
