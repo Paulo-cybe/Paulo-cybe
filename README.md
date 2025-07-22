@@ -2,7 +2,7 @@
 <p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h8iZ0gTn4AtfZ3Bzsw/giphy.gif" width="160" alt="Animação de tempestade"/>
+  <img src="https://media.giphy.com/media/h8iZ0gTn4AtfZ3Bzsw/giphy.gif" width="160" alt="Tempestade animada"/>
 </p>
 
 <p align="center">
@@ -27,11 +27,22 @@
 
 ---
 
-## 🚧 Projeto Atual
+## 🚧 Projeto Atual – TempestX
 
-| Projeto      | Status              | Descrição |
-|--------------|---------------------|-----------|
-| 🌪️ TempestX | Em desenvolvimento  | Sistema preditivo que utiliza IA para identificar riscos de enchentes, tempestades e eventos extremos, oferecendo alertas automatizados e inteligência visual para autoridades e comunidades. |
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBxN3JzNnBiaXZyOHZ3aXRhNGx6YTRrdTdoazd5ZGpnM3Z5N3I4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP502/giphy.gif" width="90%" alt="Painel animado IA"/>
+</div>
+
+### 🌪️ Sistema de Previsão e Alerta de Desastres Naturais
+
+| Recurso             | Descrição |
+|---------------------|-----------|
+| 🔍 Detecção Inteligente | Algoritmos de IA identificam padrões de risco climático com dados de satélites, sensores e previsões meteorológicas |
+| 📈 Painel Visual    | Interface analítica com mapas dinâmicos, gráficos em tempo real e alertas por localização |
+| ⚠️ Alertas Automatizados | Envio de notificações personalizadas para autoridades e cidadãos em áreas de risco |
+| 📡 Dados Federados  | Integração com sensores locais e modelos de aprendizado federado sem centralização de dados |
+
+> ⚙️ Em breve: integração com drones, mapas de calor e exportação de relatórios PDF.
 
 ---
 
@@ -39,23 +50,13 @@
 
 <div align="center">
 
-> <img src="https://media.giphy.com/media/1kEgoj7NcINvBk9c00/giphy.gif" width="480" alt="Animação de IA e análise de dados" />
+> <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="480" alt="Análise IA animada" />
 
-> <strong>TempestX</strong> é mais do que um sistema — é uma missão.  
-> Unindo dados climáticos, inteligência artificial e responsabilidade social, o objetivo é antecipar catástrofes e **salvar vidas** com tecnologia real.  
-> Um passo à frente da tempestade. Um avanço à frente do impacto.
+> <strong>TempestX</strong> não é apenas um projeto — é uma iniciativa com propósito.  
+> Ele visa antecipar e mitigar os impactos dos eventos climáticos extremos usando IA, visualização de dados e resposta automatizada.  
+> O futuro da prevenção climática começa aqui.
 
 </div>
-
----
-
-## 📊 Visualização Simulada
-
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="90%" alt="Animação simulada de gráfico e monitoramento">
-</p>
-
-<p align="center"><i>Visual conceitual de painel analítico e alertas climáticos em tempo real.</i></p>
 
 ---
 
