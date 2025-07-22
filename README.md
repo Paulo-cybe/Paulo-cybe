@@ -2,7 +2,7 @@
 <p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" width="160" alt="Tempestade animada" style="pointer-events: none;"/>
+  <img src="https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp" width="160" alt="Tempestade animada" style="pointer-events: none;"/>
 </p>
 
 <p align="center">
