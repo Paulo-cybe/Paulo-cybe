@@ -2,14 +2,14 @@
 <p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h8iZ0gTn4AtfZ3Bzsw/giphy.gif" width="160" alt="Tempestade animada" style="pointer-events: none;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk2b2txM3FzZ2h2ZThmY3lnaTNzMGw5c3o1amljbGZudG1odWZiZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FLdmIp6wJr91JAI/giphy.gif" width="160" alt="Tempestade animada" style="pointer-events: none;"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IA-Preditiva-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/paulinho-dev/tempestx?style=for-the-badge&label=Stars&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IA-Preditiva-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/paulinho-dev/tempestx?style=for-the-badge&label=Stars&logo=github"/>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ## 🚧 Projeto Atual – TempestX
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP502/giphy.gif" width="90%" alt="Painel animado IA" style="pointer-events: none;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJlazd3NmJxdHJ6MWg3eWd2azhhb2pwcWthZTBtNmZxdHQwNGFhZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT0GqeSlGSRQut4On6/giphy.gif" width="90%" alt="Painel animado IA" style="pointer-events: none;"/>
 </p>
 
 ### 🌪️ Sistema de Previsão e Alerta de Desastres Naturais
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="480" alt="Análise IA animada" style="pointer-events: none;" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4YWY2c2l6aHJxZTVpNGN3YzZmdnBkbm15OXl3emFkdmxyYmcxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUOwGoNa1mYpWdvkU0/giphy.gif" width="480" alt="Análise IA animada" style="pointer-events: none;"/>
 
 <br/><br/>
 
@@ -66,15 +66,15 @@ O futuro da prevenção climática começa aqui.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div>
 
@@ -83,8 +83,8 @@ O futuro da prevenção climática começa aqui.
 ## 🌐 Contato
 
 <p align="center">
-  <img src="https://img.shields.io/badge/@santtlx-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/@santtlx-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
