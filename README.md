@@ -2,7 +2,7 @@
 <p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SXx0omF5rF2a3vKRTB/giphy.gif" width="160" alt="Tempestade animada" style="pointer-events: none;"/>
+  <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="160" alt="Tempestade animada" style="pointer-events: none;"/>
 </p>
 
 <p align="center">
@@ -14,49 +14,43 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
-
-<div align="center">
-
-🎯 Desenvolvedor back-end com foco em <strong>Python</strong>  
-🧠 Especialista em <strong>IA aplicada</strong> e <strong>automação inteligente</strong>  
-🛡️ Estudante dedicado de <strong>cibersegurança, criptografia e malwares</strong>  
-🌍 Criador de <strong>bots personalizados</strong> e soluções com impacto social real  
-
-</div>
-
----
-
 ## 🚧 Projeto Atual – TempestX
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4On6/giphy.gif" width="90%" alt="Painel animado IA" style="pointer-events: none;"/>
+<div align="center" style="max-width: 700px; margin: auto;">
+
+<p style="font-size: 1.1rem; line-height: 1.5; text-align: justify;">
+TempestX é um sistema inteligente que utiliza IA para previsão e alerta de desastres naturais, como enchentes e tempestades.  
+Com painéis interativos e alertas automatizados, protege comunidades e autoridades em tempo real.  
 </p>
 
-### 🌪️ Sistema de Previsão e Alerta de Desastres Naturais
+<table style="width: 100%; border-collapse: collapse; margin-top: 1rem;">
+  <thead>
+    <tr style="background-color: #005A9C; color: white;">
+      <th style="padding: 8px;">Recurso</th>
+      <th style="padding: 8px;">Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #F0F8FF;">
+      <td style="padding: 8px;">🔍 Detecção Inteligente</td>
+      <td style="padding: 8px;">IA identifica padrões de risco com dados meteorológicos, satélites e sensores.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">📈 Painéis Interativos</td>
+      <td style="padding: 8px;">Visualização dinâmica com mapas, gráficos e alertas georreferenciados.</td>
+    </tr>
+    <tr style="background-color: #F0F8FF;">
+      <td style="padding: 8px;">⚠️ Alertas Automatizados</td>
+      <td style="padding: 8px;">Notificações personalizadas para autoridades e população local.</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">📡 Dados Federados</td>
+      <td style="padding: 8px;">Integração com sensores locais e aprendizado federado para privacidade.</td>
+    </tr>
+  </tbody>
+</table>
 
-| Recurso             | Descrição |
-|---------------------|-----------|
-| 🔍 Detecção Inteligente | Algoritmos de IA identificam padrões de risco climático com dados de satélites, sensores e previsões meteorológicas |
-| 📈 Painel Visual    | Interface analítica com mapas dinâmicos, gráficos em tempo real e alertas por localização |
-| ⚠️ Alertas Automatizados | Envio de notificações personalizadas para autoridades e cidadãos em áreas de risco |
-| 📡 Dados Federados  | Integração com sensores locais e modelos de aprendizado federado sem centralização de dados |
-
-> ⚙️ Em breve: integração com drones, mapas de calor e exportação de relatórios PDF.
-
----
-
-## 🎯 Visão do Projeto
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="480" alt="Análise IA animada" style="pointer-events: none;"/>
-
-<br/><br/>
-
-<strong>TempestX</strong> não é apenas um projeto — é uma iniciativa com propósito.  
-Ele visa antecipar e mitigar os impactos dos eventos climáticos extremos usando IA, visualização de dados e resposta automatizada.  
-O futuro da prevenção climática começa aqui.
+<p style="margin-top: 1rem; font-style: italic; color: #555;">Em breve: integração com drones, mapas de calor e relatórios exportáveis.</p>
 
 </div>
 
@@ -64,19 +58,26 @@ O futuro da prevenção climática começa aqui.
 
 ## 🧠 Tecnologias & Ferramentas
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+---
 
-</div>
+## 👨‍💻 Sobre o Criador
+
+<p align="center" style="font-size: 1.1rem; max-width: 600px; margin: auto;">
+Criador de bots personalizados para Discord e soluções inteligentes com IA.  
+Focado em automação, segurança digital e impacto social.
+</p>
 
 ---
 
@@ -89,4 +90,6 @@ O futuro da prevenção climática começa aqui.
 
 ---
 
-<p align="center"><i>“Não escrevo código apenas por paixão, mas por missão. Cada algoritmo pode alertar, proteger e transformar realidades.”</i></p>
+<p align="center" style="font-style: italic; color: #555;">
+“Não escrevo código apenas por paixão, mas por missão. Cada algoritmo pode alertar, proteger e transformar realidades.”
+</p>
