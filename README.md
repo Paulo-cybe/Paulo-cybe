@@ -1,9 +1,6 @@
 <h1 align="center">🌪️ TempestX</h1>
 <p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
 
-<p align="center">
-  <img src="https://media.tenor.com/CoYXXeAVGa4AAAAC/evil-corp-e-corp.gif" width="160" alt="Mr. Robot - Evil Corp" style="pointer-events: none;"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/>
