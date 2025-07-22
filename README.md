@@ -1,6 +1,10 @@
-<h1 align="center">projeto atual> 🌪️ TempestX</h1>
-<p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
-
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5em; color: #2c3e50;">
+  🌪️ <span style="color: #2980b9;">TempestX</span>
+</h1>
+<p align="center" style="font-size: 1.2em; color: #555; font-weight: 500;">
+  Inteligência preditiva para <strong style="color: #e74c3c;">proteger vidas</strong>.  
+  <span style="color: #16a085;">Tecnologia com propósito.</span>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge"/>
