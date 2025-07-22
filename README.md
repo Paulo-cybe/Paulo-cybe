@@ -2,7 +2,7 @@
 <p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
 
 <p align="center">
-  <img src="https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp" width="160" alt="Tempestade animada" style="pointer-events: none;"/>
+  <img src="https://media.tenor.com/CoYXXeAVGa4AAAAC/evil-corp-e-corp.gif" width="160" alt="Mr. Robot - Evil Corp" style="pointer-events: none;"/>
 </p>
 
 <p align="center">
