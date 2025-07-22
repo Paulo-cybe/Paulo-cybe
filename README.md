@@ -2,7 +2,7 @@
 <p align="center"><strong>Inteligência preditiva para proteger vidas. Tecnologia com propósito.</strong></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h8iZ0gTn4AtfZ3Bzsw/giphy.gif" width="160" alt="Tempestade animada"/>
+  <img src="https://media.giphy.com/media/h8iZ0gTn4AtfZ3Bzsw/giphy.gif" width="160" alt="Animação de tempestade"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 | Projeto      | Status              | Descrição |
 |--------------|---------------------|-----------|
-| 🌪️ TempestX | Em desenvolvimento  | Sistema preditivo que utiliza IA para identificar riscos de enchentes, tempestades e eventos extremos, oferecendo painéis em tempo real e alertas automatizados para populações e autoridades. |
+| 🌪️ TempestX | Em desenvolvimento  | Sistema preditivo que utiliza IA para identificar riscos de enchentes, tempestades e eventos extremos, oferecendo alertas automatizados e inteligência visual para autoridades e comunidades. |
 
 ---
 
@@ -39,11 +39,23 @@
 
 <div align="center">
 
-> TempestX é mais do que um sistema — é uma missão.  
-> Unindo dados, IA e responsabilidade social, o objetivo é antecipar catástrofes naturais, emitir alertas preventivos e **salvar vidas**.  
+> <img src="https://media.giphy.com/media/1kEgoj7NcINvBk9c00/giphy.gif" width="480" alt="Animação de IA e análise de dados" />
+
+> <strong>TempestX</strong> é mais do que um sistema — é uma missão.  
+> Unindo dados climáticos, inteligência artificial e responsabilidade social, o objetivo é antecipar catástrofes e **salvar vidas** com tecnologia real.  
 > Um passo à frente da tempestade. Um avanço à frente do impacto.
 
 </div>
+
+---
+
+## 📊 Visualização Simulada
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="90%" alt="Animação simulada de gráfico e monitoramento">
+</p>
+
+<p align="center"><i>Visual conceitual de painel analítico e alertas climáticos em tempo real.</i></p>
 
 ---
 
@@ -56,6 +68,7 @@
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
