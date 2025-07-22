@@ -11,47 +11,7 @@
 
 ---
 
-## 🚧 Projeto Atual – TempestX
 
-<div align="center" style="max-width: 700px; margin: auto;">
-
-<p style="font-size: 1.1rem; line-height: 1.5; text-align: justify;">
-TempestX é um sistema inteligente que utiliza IA para previsão e alerta de desastres naturais, como enchentes e tempestades.  
-Com painéis interativos e alertas automatizados, protege comunidades e autoridades em tempo real.  
-</p>
-
-<table style="width: 100%; border-collapse: collapse; margin-top: 1rem;">
-  <thead>
-    <tr style="background-color: #005A9C; color: white;">
-      <th style="padding: 8px;">Recurso</th>
-      <th style="padding: 8px;">Descrição</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #F0F8FF;">
-      <td style="padding: 8px;">🔍 Detecção Inteligente</td>
-      <td style="padding: 8px;">IA identifica padrões de risco com dados meteorológicos, satélites e sensores.</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">📈 Painéis Interativos</td>
-      <td style="padding: 8px;">Visualização dinâmica com mapas, gráficos e alertas georreferenciados.</td>
-    </tr>
-    <tr style="background-color: #F0F8FF;">
-      <td style="padding: 8px;">⚠️ Alertas Automatizados</td>
-      <td style="padding: 8px;">Notificações personalizadas para autoridades e população local.</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">📡 Dados Federados</td>
-      <td style="padding: 8px;">Integração com sensores locais e aprendizado federado para privacidade.</td>
-    </tr>
-  </tbody>
-</table>
-
-<p style="margin-top: 1rem; font-style: italic; color: #555;">Em breve: integração com drones, mapas de calor e relatórios exportáveis.</p>
-
-</div>
-
----
 
 ## 🧠 Tecnologias & Ferramentas
 
